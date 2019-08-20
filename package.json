@@ -1,0 +1,27 @@
+{
+  "name": "New",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "core-util-is": "^1.0.2",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "simple-peer": "^9.5.0",
+    "webpack-dev-server": "^3.8.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "babel-loader": "^8.0.6",
+    "jquery": "^3.4.1",
+    "webpack": "^4.39.2",
+    "webpack-cli": "^3.3.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "description": ""
+}
